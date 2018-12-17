@@ -58,7 +58,7 @@ LUNA has achieved the following performance since 2017.
 
 근무 환경 개선을 위한 '근무 환경 모니터링 솔루션'을 개발하여 현업 종사자, 대학생들과의 경쟁에서 1등인 대상을 수상함.
 
-참가 멤버 : 김가은(WP16), 김대운(HD17), 김지섭(HD16), 박재성(WP16), 이원준(HD16)
+참가 멤버 : 김가은(WP17), 김대운(HD17), 김지섭(HD16), 박재성(WP16), 이원준(HD16)
 
 ---
 
@@ -82,7 +82,7 @@ LUNA has achieved the following performance since 2017.
 
 ---
 
-### 2018 Hello New() World 해커톤 우수상 (2018.07.15.)
+### 2018 Hello New() World 해커톤 우수상 (2018.07.13. ~ 2018.07.14.)
 
 정기구독형 코딩 교육 플랫폼을 선보여 3위인 우수상 수상.
 
@@ -223,3 +223,11 @@ LUNA Quote 40만원, LUNA Idea market 10만원, LUNA Pad 10만원
 ### 2018 경기 청년 한마당 투어 부스 운영
 
 LUNA 부스 운영
+
+---
+
+### 2018 임팩터톤 2위 수상
+
+임팩터톤 2위
+
+참가멤버 : 한효민(HD17)
