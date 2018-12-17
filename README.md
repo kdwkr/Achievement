@@ -144,7 +144,7 @@ LUNA has achieved the following performance since 2017.
 
 ---
 
-### IF해커톤 사회혁신상 수상
+### 2018 IF해커톤 사회혁신상 수상
 
 사회적 약자분들을 위한 인공지능 비서 IoT 서비스 '나슬(Nasuel)'을 개발하여 대학생 및 현업 종사자분들과의 경쟁 속에서 1위인 사회혁신상 수상
 
@@ -152,7 +152,7 @@ LUNA has achieved the following performance since 2017.
 
 ---
 
-### 하이스쿨 스타트업 스프링보드 금상 수상
+### 2018 하이스쿨 스타트업 스프링보드 금상 수상
 
 펫 엑티비티 정보 공유 & 추억 공유 서비스를 개발하여 1위인 금상 수상
 
@@ -160,7 +160,7 @@ LUNA has achieved the following performance since 2017.
 
 ---
 
-### 하이스쿨 스타트업 스프링보드 은상 수상
+### 2018 하이스쿨 스타트업 스프링보드 은상 수상
 
 2위인 은상 수상
 
@@ -173,3 +173,41 @@ LUNA has achieved the following performance since 2017.
 전국의 중, 고등학생 중 창업 활동, 기여도 등 다방면 평가 이후 각각 한 명의 중, 고등학생에게 중소벤처기업부 장관 표창
 
 표창 멤버 : 이원준(HD16)
+
+---
+
+### 2018 청소년 비즈쿨 페스티벌 우수창업동아리 경진대회 우수상 수상
+
+LUNA가 3등인 우수상~
+
+---
+
+### 2018 삼성 주니어 소프트웨어 창작대회 장려상 수상
+
+장려상
+
+참가 멤버 : 한효민(HD17)
+
+---
+
+### 2018 Smart Hackers Digital Leadership 'Do Re Mi' 'Mi' 수상
+
+Smart Hackers Digital Leadership 'Do Re Mi' 에서 3등인 'Mi' 수상
+
+참가 멤버 : 박평진(WP16), 이세은(WP16), 이현선(WP17)
+
+---
+
+### 2018 수원정보과학축제 3D 프린팅 해커톤 대상 
+
+1등인 대상 수상
+
+참가 멤버 : 김수겸(WP17), 박재성(WP16)
+
+---
+
+### 2018 16회 AppJam 미래산업부문 최우수상
+
+미래산업부문 1등인 최우수상 수상
+
+참가 멤버 : 김수겸(WP17), 박평진(WP16)
