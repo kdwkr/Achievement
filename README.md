@@ -211,3 +211,15 @@ Smart Hackers Digital Leadership 'Do Re Mi' 에서 3등인 'Mi' 수상
 미래산업부문 1등인 최우수상 수상
 
 참가 멤버 : 김수겸(WP17), 박평진(WP16)
+
+---
+
+### 2018 Company of the Year 총 60만원 투자
+
+LUNA Quote 40만원, LUNA Idea market 10만원, LUNA Pad 10만원
+
+---
+
+### 2018 경기 청년 한마당 투어 부스 운영
+
+LUNA 부스 운영
